@@ -11,7 +11,7 @@
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
 
-#define LOCALHOST "10.10.12.53" 
+#define LOCALHOST "YOUR.LOCAL.HOST.4" 
 #define PORT 7200 
 #define FRAME_WIDTH         640
 #define FRAME_HEIGHT        480
